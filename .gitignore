@@ -1,0 +1,19 @@
+# File sensitif
+.env
+.env.*
+*.log
+
+# Password / credential lokal
+config/database.local.php
+
+# File sistem Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
